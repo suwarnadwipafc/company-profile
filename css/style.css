@@ -105,6 +105,12 @@ section {
   .container .row .col .video {
     width: 350px;
   }
+  
+  .slider .slides .caption h3,
+  h5,
+  h6 {
+    text-align: center;
+  }
 }
 
 @font-face {
