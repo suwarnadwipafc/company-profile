@@ -112,6 +112,11 @@ section {
     text-align: center;
     margin-right: 5px;
   }
+  
+  .slider .slides .caption h3 {
+    text-align: center;
+    margin-right: 8px;
+  }
 }
 
 @font-face {
